@@ -8,5 +8,8 @@
   margin: 0;
   padding: 0;
 }
+:root body .cards-1 {
+  padding: 90px 10px;
+}
 
 /*# sourceMappingURL=style.css.map */
